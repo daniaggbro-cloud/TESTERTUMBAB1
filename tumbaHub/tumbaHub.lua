@@ -19,7 +19,7 @@ Mega = {
     LoadedModules = {}
 }
 
-local baseURL = "https://github.com/daniaggbro-cloud/TESTERTUMBAB1/tree/main/TumbaHub-main/tumbaHub"
+local baseURL = "https://raw.githubusercontent.com/daniaggbro-cloud/TESTERTUMBAB1/main/TumbaHub-main/tumbaHub/"
 
 -- Module Loader
 function Mega.LoadModule(path)
